@@ -1,1 +1,1 @@
-include ':sample', ':richeditor'
+include ':richeditor'
