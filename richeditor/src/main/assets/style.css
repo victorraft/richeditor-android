@@ -28,6 +28,10 @@ body {
   width: 100%;
 }
 
+img {
+   max-width: 100%;
+}
+
 #editor {
   display: table-cell;
 
