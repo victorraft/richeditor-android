@@ -96,7 +96,7 @@ RE.redo = function() {
 
 RE.setBold = function() {
 //    document.execCommand('bold', false, null);
-    document.execCommand('bold', false, ‘<b>’);
+    document.execCommand('bold', false, '<b>');
 }
 
 RE.setItalic = function() {
